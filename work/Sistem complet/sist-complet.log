@@ -1,0 +1,64 @@
+Circuit: * C:\Users\andre\Projects\SCIA project\work\Sistem complet\sist-complet.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+vernier = 0.5
+Gmin = 4.06622e-08
+vernier = 0.666667
+vernier = 0.333333
+Gmin = 1.47766e-08
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 1.0514e-08
+vernier = 0.296296
+vernier = 0.395061
+Gmin = 5.09087e-09
+vernier = 0.526748
+Gmin = 1.6627e-09
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 2.71568e-10
+vernier = 1
+Gmin = 2.99151e-11
+Gmin = 3.21211e-12
+Gmin = 3.44898e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(pga:s1)
+Ignoring empty pin current: Ix(pga:s2)
+Ignoring empty pin current: Ix(pga:s3)
+Ignoring empty pin current: Ix(pga:s4)
+Ignoring empty pin current: Ix(pga:s1)
+Ignoring empty pin current: Ix(pga:s2)
+Ignoring empty pin current: Ix(pga:s3)
+Ignoring empty pin current: Ix(pga:s4)
+
+Date: Wed Jan  8 09:42:19 2025
+Total elapsed time: 1.266 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10068
+traniter = 9128
+tranpoints = 4458
+accept = 4304
+rejected = 154
+matrix size = 85
+fillins = 225
+solver = Normal
+Avg thread counts: 1.6/2.3/2.3/1.6
+Matrix Compiler1: 17.86 KB object code size  29.6/19.9/[14.9]
+Matrix Compiler2: 12.50 KB object code size  4.3/4.5/[1.5]
+

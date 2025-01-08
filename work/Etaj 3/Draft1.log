@@ -1,0 +1,56 @@
+Circuit: * C:\Users\andre\Projects\SCIA project\work\Etaj 3\Draft1.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+vernier = 0.5
+Gmin = 2.96428e-08
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.58937e-08
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 1.10189e-08
+vernier = 0.296296
+vernier = 0.395061
+Gmin = 5.55374e-09
+vernier = 0.526748
+Gmin = 1.86822e-09
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 3.32752e-10
+vernier = 1
+Gmin = 3.7127e-11
+Gmin = 3.98648e-12
+Gmin = 4.28045e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Dec 23 15:20:44 2024
+Total elapsed time: 1.188 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2572
+traniter = 1698
+tranpoints = 715
+accept = 616
+rejected = 99
+matrix size = 27
+fillins = 69
+solver = Normal
+Avg thread counts: 4.5/8.7/8.7/4.5
+Matrix Compiler1: 5.67 KB object code size  4.9/3.8/[2.7]
+Matrix Compiler2:     279 opcodes  1.4/[1.4]/4.2
+

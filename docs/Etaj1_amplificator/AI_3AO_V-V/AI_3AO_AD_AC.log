@@ -1,0 +1,194 @@
+Circuit: * C:\Users\40733\Downloads\Lab8_9_Instrumentatie_LTspice\Lab8_9_Instrumentatie_LTspice\AI_3AO_V-V\AI_3AO_AD_AC.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.41348e-007
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 3.03622%
+Source Step = 3.06581%
+Source Step = 3.09541%
+Source Step = 3.125%
+Source Step = 3.15459%
+Source Step = 3.18419%
+vernier = 0.00146484
+Source Step = 3.22414%
+Source Step = 3.26853%
+Source Step = 3.31291%
+Source Step = 3.3573%
+Source Step = 3.40169%
+vernier = 0.00219727
+Source Step = 3.4594%
+Source Step = 3.52598%
+Source Step = 3.59257%
+Source Step = 3.65915%
+Source Step = 3.72573%
+vernier = 0.0032959
+Source Step = 3.80896%
+Source Step = 3.90884%
+Source Step = 4.00872%
+Source Step = 4.10859%
+Source Step = 4.20847%
+vernier = 0.00494385
+Source Step = 4.32832%
+Source Step = 4.47813%
+Source Step = 4.62794%
+Source Step = 4.77776%
+Source Step = 4.92757%
+vernier = 0.00741577
+Source Step = 5.09986%
+Source Step = 5.32458%
+Source Step = 5.5493%
+Source Step = 5.77402%
+Source Step = 5.99874%
+vernier = 0.0111237
+Source Step = 6.24593%
+Source Step = 6.58301%
+Source Step = 6.92009%
+Source Step = 7.25717%
+Source Step = 7.59425%
+vernier = 0.0166855
+Source Step = 7.94819%
+Source Step = 8.45381%
+Source Step = 8.95943%
+Source Step = 9.46505%
+Source Step = 9.97067%
+Source Step = 10.4763%
+vernier = 0.0250282
+Source Step = 11.2347%
+Source Step = 11.9932%
+Source Step = 12.7516%
+Source Step = 13.51%
+Source Step = 14.2684%
+vernier = 0.0375423
+Source Step = 15.3682%
+Source Step = 16.5058%
+Source Step = 17.6435%
+Source Step = 18.7811%
+Source Step = 19.9188%
+vernier = 0.0563135
+Source Step = 21.5115%
+Source Step = 23.2179%
+Source Step = 24.9244%
+Source Step = 26.6309%
+Source Step = 28.3373%
+vernier = 0.0844703
+Source Step = 30.6411%
+Source Step = 33.2008%
+Source Step = 35.7605%
+Source Step = 38.3202%
+Source Step = 40.8799%
+vernier = 0.126705
+Source Step = 44.2075%
+Source Step = 48.0471%
+Source Step = 51.8866%
+Source Step = 55.7262%
+Source Step = 59.5657%
+vernier = 0.190058
+Source Step = 64.3652%
+Source Step = 70.1245%
+Source Step = 75.8839%
+Source Step = 81.6432%
+Source Step = 87.4025%
+vernier = 0.285087
+Source Step = 92.154%
+Source Step = 92.3902%
+Source Step = 92.424%
+Source Step = 92.4577%
+Source Step = 92.4915%
+Source Step = 92.5252%
+vernier = 0.00167043
+Source Step = 92.5606%
+Source Step = 92.6113%
+Source Step = 92.6619%
+Source Step = 92.7125%
+Source Step = 92.7631%
+Source Step = 92.8137%
+vernier = 0.00250565
+Source Step = 92.8897%
+Source Step = 92.9656%
+Source Step = 93.0415%
+Source Step = 93.1174%
+Source Step = 93.1934%
+vernier = 0.00375847
+Source Step = 93.3035%
+Source Step = 93.4174%
+Source Step = 93.5313%
+Source Step = 93.6452%
+Source Step = 93.759%
+vernier = 0.00563771
+Source Step = 93.9185%
+Source Step = 94.0893%
+Source Step = 94.2602%
+Source Step = 94.431%
+Source Step = 94.6019%
+vernier = 0.00845657
+Source Step = 94.8325%
+Source Step = 95.0887%
+Source Step = 95.345%
+Source Step = 95.6013%
+Source Step = 95.8575%
+vernier = 0.0126848
+Source Step = 96.1907%
+Source Step = 96.5751%
+Source Step = 96.9594%
+Source Step = 97.3438%
+Source Step = 97.7282%
+vernier = 0.0190273
+Source Step = 98.2087%
+Source Step = 98.7853%
+Source Step = 99.3619%
+Source Step = 99.9385%
+Source stepping succeeded in finding the operating point.
+
+
+ad: v(outd)=(80.008dB,-0.00385835°) at 1
+acm: v(outcm)=(-156.389dB,1.03232°) at 1
+bw: v(outd)=(76.9976dB,-45.4276°) at 14963.5
+cmrr: (v(outd)/v(outcm))=(236.397dB,-1.03618°) at 1
+psrr: (v(outd)/v(outps))=(202.438dB,-18.8615°) at 1
+aps: v(outps)=(-122.43dB,18.8576°) at 1
+
+
+Date: Sun Nov 21 11:39:15 2021
+Total elapsed time: 1.458 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 8249
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 189
+fillins = 466
+solver = Normal
+Matrix Compiler1:    1949 opcodes
+Matrix Compiler2: 27.70 KB object code size  1.5/2.0/[1.0]
+

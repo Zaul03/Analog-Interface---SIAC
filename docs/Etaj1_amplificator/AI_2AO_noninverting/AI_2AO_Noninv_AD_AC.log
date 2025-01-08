@@ -1,0 +1,76 @@
+Circuit: * C:\Users\40733\Downloads\Lab8_9_Instrumentatie_LTspice\Lab8_9_Instrumentatie_LTspice\AI_2AO_noninverting\AI_2AO_Noninv_AD_AC.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+Gmin = 7.12293e-008
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.0833333
+Gmin = 6.72064e-008
+vernier = 0.111111
+Gmin = 5.25045e-008
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 3.48093e-008
+vernier = 0.263374
+vernier = 0.351165
+Gmin = 1.82211e-008
+vernier = 0.46822
+Gmin = 6.698e-009
+vernier = 0.624294
+vernier = 0.312147
+vernier = 0.156073
+vernier = 0.208098
+Gmin = 5.25779e-009
+vernier = 0.277464
+Gmin = 2.91771e-009
+vernier = 0.369952
+vernier = 0.493269
+Gmin = 1.13216e-009
+vernier = 0.657691
+vernier = 0.876922
+Gmin = 2.62816e-010
+vernier = 1
+Gmin = 3.19649e-011
+Gmin = 3.4322e-012
+Gmin = 3.6853e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+ad: v(outd)=(66.0678dB,-0.0391754°) at 1
+acm: v(outcm)=(-32.2087dB,178.285°) at 1
+bw: v(outd)=(63.0574dB,-45.4646°) at 1474.37
+cmrr: (v(outd)/v(outcm))=(98.2765dB,-178.324°) at 1
+psrr: (v(outd)/v(outps))=(233.351dB,75.0666°) at 1
+aps: v(outps)=(-167.283dB,-75.1058°) at 1
+
+
+Date: Sun Nov 21 11:56:03 2021
+Total elapsed time: 0.208 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1280
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 96
+fillins = 94
+solver = Normal
+Matrix Compiler1:     569 opcodes
+Matrix Compiler2: off  [0.7]/1.1/0.8
+

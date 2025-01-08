@@ -1,0 +1,50 @@
+Circuit: * C:\Users\andre\Projects\SCIA project\work\Etaj 1\amp-neinv-comp-DC.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+vernier = 0.5
+vernier = 0.25
+Gmin = 1.24538e-08
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 5.05474e-09
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.2463e-09
+vernier = 1
+Gmin = 1.58861e-10
+Gmin = 1.70576e-11
+Gmin = 1.83154e-12
+Gmin = 1.9666e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Dec 29 14:41:00 2024
+Total elapsed time: 0.091 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1322
+traniter = 627
+tranpoints = 309
+accept = 290
+rejected = 19
+matrix size = 18
+fillins = 9
+solver = Normal
+Avg thread counts: 9.5/13.7/13.7/9.5
+Matrix Compiler1: 1.35 KB object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 1.88 KB object code size  0.2/0.4/[0.2]
+
