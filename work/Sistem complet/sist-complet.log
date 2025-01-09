@@ -1,4 +1,4 @@
-Circuit: * C:\Users\andre\Projects\SCIA project\work\Sistem complet\sist-complet.asc
+Circuit: * C:\Users\andre\OneDrive\Desktop\Proj Scia\SIAC---Project\work\Sistem complet\sist-complet.asc
 
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
@@ -12,26 +12,70 @@ Gmin = 0.000142725
 Gmin = 1.5325e-05
 Gmin = 1.6455e-06
 Gmin = 1.76685e-07
+Gmin = 1.89714e-08
 vernier = 0.5
-Gmin = 4.06622e-08
-vernier = 0.666667
-vernier = 0.333333
-Gmin = 1.47766e-08
+vernier = 0.25
+vernier = 0.125
+Gmin = 2.03324e-08
 vernier = 0.166667
 vernier = 0.222222
-Gmin = 1.0514e-08
-vernier = 0.296296
-vernier = 0.395061
-Gmin = 5.09087e-09
-vernier = 0.526748
-Gmin = 1.6627e-09
-vernier = 0.702331
-vernier = 0.936441
-Gmin = 2.71568e-10
+vernier = 0.111111
+vernier = 0.0555555
+Gmin = 1.56973e-08
+vernier = 0.0277778
+vernier = 0.037037
+Gmin = 1.47499e-08
+vernier = 0.0493827
+vernier = 0.0658435
+Gmin = 1.31135e-08
+vernier = 0.0329218
+vernier = 0.0164609
+vernier = 0.0219478
+Gmin = 1.28458e-08
+vernier = 0.0292638
+vernier = 0.0146319
+Gmin = 1.24081e-08
+vernier = 0.0195092
+vernier = 0.0260122
+vernier = 0.0130061
+Gmin = 1.19731e-08
+vernier = 0.0173415
+vernier = 0.023122
+Gmin = 1.14868e-08
+vernier = 0.0308293
+Gmin = 1.07402e-08
+vernier = 0.0411057
+vernier = 0.0548076
+vernier = 0.0274038
+vernier = 0.0137019
+Gmin = 1.00239e-08
+vernier = 0.0182692
+Gmin = 9.632e-09
+vernier = 0.0243589
+vernier = 0.0324786
+Gmin = 9.02362e-09
+vernier = 0.0433047
+vernier = 0.0577396
+Gmin = 8.13882e-09
+vernier = 0.0769862
+Gmin = 6.88722e-09
+vernier = 0.102648
+vernier = 0.136864
+Gmin = 5.24693e-09
+vernier = 0.182486
+vernier = 0.243314
+Gmin = 3.42121e-09
+vernier = 0.324419
+Gmin = 1.72431e-09
+vernier = 0.432558
+vernier = 0.576744
+Gmin = 5.75031e-10
+vernier = 0.768992
 vernier = 1
-Gmin = 2.99151e-11
-Gmin = 3.21211e-12
-Gmin = 3.44898e-13
+Gmin = 1.06928e-10
+Gmin = 1.14813e-11
+Gmin = 1.2328e-12
+Gmin = 1.32371e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
@@ -44,21 +88,21 @@ Ignoring empty pin current: Ix(pga:s2)
 Ignoring empty pin current: Ix(pga:s3)
 Ignoring empty pin current: Ix(pga:s4)
 
-Date: Wed Jan  8 09:42:19 2025
-Total elapsed time: 1.266 seconds.
+Date: Thu Jan  9 11:56:06 2025
+Total elapsed time: 0.395 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 10068
-traniter = 9128
-tranpoints = 4458
-accept = 4304
-rejected = 154
-matrix size = 85
-fillins = 225
+totiter = 12936
+traniter = 10396
+tranpoints = 4943
+accept = 4620
+rejected = 323
+matrix size = 83
+fillins = 347
 solver = Normal
-Avg thread counts: 1.6/2.3/2.3/1.6
-Matrix Compiler1: 17.86 KB object code size  29.6/19.9/[14.9]
-Matrix Compiler2: 12.50 KB object code size  4.3/4.5/[1.5]
+Avg thread counts: 4.2/4.5/2.2/1.6
+Matrix Compiler1: 28.50 KB object code size  3.4/1.7/[1.5]
+Matrix Compiler2: off  [0.7]/0.7/1.1
 

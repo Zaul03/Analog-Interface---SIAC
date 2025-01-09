@@ -1,4 +1,4 @@
-Circuit: * C:\Users\andre\Projects\SCIA project\work\Etaj 2\Etaj2.asc
+Circuit: * C:\Users\andre\OneDrive\Desktop\Proj Scia\SIAC---Project\work\Etaj 2\Etaj2.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -21,21 +21,21 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Tue Jan  7 12:20:01 2025
-Total elapsed time: 1.346 seconds.
+Date: Thu Jan  9 11:29:21 2025
+Total elapsed time: 0.034 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 2158
-traniter = 1640
-tranpoints = 821
-accept = 821
+method = trap
+totiter = 524
+traniter = 0
+tranpoints = 0
+accept = 0
 rejected = 0
 matrix size = 17
 fillins = 13
 solver = Normal
-Avg thread counts: 4.6/7.9/7.9/4.6
-Matrix Compiler1: 1.54 KB object code size  3.7/6.4/[2.9]
-Matrix Compiler2: 1.84 KB object code size  2.0/2.1/[0.7]
+Avg thread counts: 10.5/0.0/16.0/9.6
+Matrix Compiler1:      86 opcodes
+Matrix Compiler2: off  [0.1]/0.2/0.1
 
