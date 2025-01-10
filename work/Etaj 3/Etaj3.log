@@ -1,4 +1,4 @@
-Circuit: * C:\Users\andre\Projects\SCIA project\work\Etaj 3\Etaj3.asc
+Circuit: * D:\Cursuri facultate\Proj Scia\SIAC---Project\work\Etaj 3\Etaj3.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -22,39 +22,39 @@ Gmin stepping succeeded in finding the operating point.
 
 N-Period=1
 Fourier components of V(out)
-DC component:0.00442524
+DC component:0.00441897
 
 Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
  Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
-    1   	 1.060e+3	 5.902e-1	 1.000e+0	  -89.99°	    0.00°
-    2   	 2.121e+3	 5.267e-5	 8.925e-5	 -130.08°	  -40.09°
-    3   	 3.182e+3	 2.901e-4	 4.915e-4	 -135.78°	  -45.79°
-    4   	 4.242e+3	 1.028e-4	 1.742e-4	   67.46°	  157.45°
-    5   	 5.302e+3	 1.925e-4	 3.262e-4	   47.61°	  137.60°
-    6   	 6.363e+3	 1.428e-4	 2.420e-4	 -102.22°	  -12.23°
-    7   	 7.424e+3	 3.098e-4	 5.249e-4	  -61.32°	   28.67°
-    8   	 8.484e+3	 9.232e-5	 1.564e-4	  120.64°	  210.63°
-    9   	 9.544e+3	 3.407e-4	 5.773e-4	  137.24°	  227.23°
-Partial Harmonic Distortion: 0.103831%
-Total Harmonic Distortion:   0.118004%
+    1   	 1.060e+3	 1.666e+0	 1.000e+0	  -90.00°	    0.00°
+    2   	 2.121e+3	 5.344e-5	 3.208e-5	  -26.54°	   63.45°
+    3   	 3.182e+3	 5.204e-4	 3.124e-4	  -87.15°	    2.84°
+    4   	 4.242e+3	 1.291e-4	 7.751e-5	    1.90°	   91.89°
+    5   	 5.302e+3	 5.202e-5	 3.123e-5	   81.80°	  171.80°
+    6   	 6.363e+3	 6.493e-4	 3.897e-4	  149.60°	  239.60°
+    7   	 7.424e+3	 2.520e-4	 1.513e-4	   92.62°	  182.61°
+    8   	 8.484e+3	 4.804e-4	 2.884e-4	  -23.36°	   66.64°
+    9   	 9.544e+3	 3.264e-4	 1.959e-4	 -129.80°	  -39.80°
+Partial Harmonic Distortion: 0.063396%
+Total Harmonic Distortion:   0.091355%
 
 
 
-Date: Thu Jan  9 15:01:03 2025
-Total elapsed time: 0.190 seconds.
+Date: Fri Jan 10 12:04:15 2025
+Total elapsed time: 2.178 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 8503
-traniter = 8054
-tranpoints = 4028
-accept = 4025
+totiter = 80501
+traniter = 80052
+tranpoints = 40027
+accept = 40024
 rejected = 3
 matrix size = 31
 fillins = 18
 solver = Normal
-Avg thread counts: 1.7/3.9/2.5/1.7
-Matrix Compiler1: 2.17 KB object code size  0.5/0.3/[0.3]
-Matrix Compiler2: 2.80 KB object code size  0.2/0.3/[0.2]
+Avg thread counts: 1.1/1.1/1.1/1.1
+Matrix Compiler1:     123 opcodes  0.5/[0.2]/0.2
+Matrix Compiler2: 2.80 KB object code size  0.2/0.2/[0.2]
 
